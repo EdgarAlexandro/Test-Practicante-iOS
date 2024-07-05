@@ -26,7 +26,7 @@ Este proyecto es una aplicación de Pokédex desarrollada en Swift que permite a
 2. Abre el proyecto en Xcode:
     ```sh
     cd Test-Practicante-iOS
-    open Test Practicante iOS.xcodeproj
+    open Test\ Practicante\ iOS.xcodeproj
     ```
 3. Ejecuta la aplicación en el simulador o en tu dispositivo iOS.
 
